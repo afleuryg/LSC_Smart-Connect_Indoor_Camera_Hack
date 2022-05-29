@@ -27,7 +27,7 @@ https://github.com/guino/BazzDoorbell/issues/2
   - http://admin:admin@(CAMERA_IP):8090/proc/self/root/etc/init.d/S90PPStrong 
 - Éteindre la caméra et récupérer la carte micro-SD.
 
-## 'Rooter' (= lancer un programme non includ d'origine) la caméra
+## 'Rooter' (= lancer un programme non inclus d'origine) la caméra
 
 La procédure dépends de la réponse à la requête http://admin:admin@(CAMERA_IP):8090/devices/deviceinfo
 
